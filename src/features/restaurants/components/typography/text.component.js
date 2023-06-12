@@ -2,7 +2,6 @@
 import styled from "styled-components/native";
 
 const defaultTextStyles = (theme) => `
-  font-family: ${theme.fonts.body};
   font-weight: ${theme.fontWeights.regular};
   color: ${theme.colors.text.primary};
   flex-wrap: wrap;
@@ -28,7 +27,6 @@ const caption = (theme) => `
 `;
 
 const label = (theme) => `
-    font-family: ${theme.fonts.heading};
     font-size: ${theme.fontSizes.body};
     font-weight: ${theme.fontWeights.medium};
 `;
