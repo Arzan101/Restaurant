@@ -1,4 +1,4 @@
-#project
+#Project
 
 
 User Authentication: Firebase Authentication for secure login and registration.
