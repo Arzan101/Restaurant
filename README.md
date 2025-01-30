@@ -1,4 +1,4 @@
-# Project
+# 💻Project
 
 
 User Authentication: Firebase Authentication for secure login and registration.
@@ -7,4 +7,4 @@ Menu & Ordering System: Users can browse restaurant menus, add items to their ca
 Cart Management: Persistent cart functionality using React Context and Firebase Firestore.
 Favorites & Reviews: Users can save favorite restaurants and leave reviews.
 
-#Overview 
+# 📱Overview 
