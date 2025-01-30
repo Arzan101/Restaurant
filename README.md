@@ -8,3 +8,4 @@ Cart Management: Persistent cart functionality using React Context and Firebase 
 Favorites & Reviews: Users can save favorite restaurants and leave reviews.
 
 # 📱Overview 
+![Image](https://github.com/user-attachments/assets/0beeacf6-abb3-4897-88ac-acac579e172f)
